@@ -1,5 +1,5 @@
-//					dec			hex
-//final file size	8650752,	0x840000
+//				dec			hex
+//final file size		8650752,	0x840000
 //file 1			8388608,	0x800000
 //file 2 			262144,		0x40000
 
