@@ -2,6 +2,8 @@
 
 ##### Note: This program isn't written very well since I'm still a beginner in C++ and programming. But I had fun doing it.
 This program takes 512 bytes from the dongle file, then adds 16 bytes from the ECC data file, does that 16384 times and adds that merged data to a new file.
+## Usage
+Enter the file name of the main dongle file with the extension. For example: `tk71.ic002`. Entering an invalid file name will cause undefined behavior because I'm too lazy to implement fixes and failsafes.
 
 ## What?
 MAME System 2x6 dongle files are most often distributed as 2 files, for example:
